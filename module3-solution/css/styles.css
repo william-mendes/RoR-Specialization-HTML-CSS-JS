@@ -1,0 +1,30 @@
+/** HEADER **/
+
+#nav-list ul {
+  background-color: #ffbfc3;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center
+}
+
+#nav-list a:hover {
+  color: Blue;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.card-header {
+  text-align: center;
+  margin-top: 5px;
+}
+
+.card {
+  background-color: #954646;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
